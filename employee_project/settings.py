@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'employee_register',
     'note_api',
+     'rest_framework'
 ]
 
 MIDDLEWARE = [
